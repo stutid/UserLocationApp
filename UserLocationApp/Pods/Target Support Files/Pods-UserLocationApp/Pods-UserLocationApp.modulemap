@@ -1,0 +1,6 @@
+framework module Pods_UserLocationApp {
+  umbrella header "Pods-UserLocationApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
